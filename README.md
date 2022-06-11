@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Rock,Paper,Scissors is a game 
+Rock,Paper,Scissors is a fun game played against the cpu.  
